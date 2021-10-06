@@ -12,5 +12,8 @@ public class Javatest {
 //        冲突合并
         System.out.println("master-commit");
 
+//        冲突合并
+        System.out.println("hot-fix commit");
+
     }
 }
