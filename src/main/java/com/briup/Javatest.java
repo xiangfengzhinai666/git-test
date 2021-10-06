@@ -15,5 +15,6 @@ public class Javatest {
 //        冲突合并
         System.out.println("hot-fix commit");
 
+        System.out.println("pushpush");
     }
 }
