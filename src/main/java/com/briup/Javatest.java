@@ -16,5 +16,7 @@ public class Javatest {
         System.out.println("hot-fix commit");
 
         System.out.println("pushpush");
+        System.out.println("pullpull");
+        
     }
 }
